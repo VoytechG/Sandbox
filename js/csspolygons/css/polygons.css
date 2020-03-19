@@ -1,0 +1,40 @@
+/* html {
+  cursor: none;
+} */
+
+body {
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.container {
+  width: 50em;
+  height: 30em;
+  border-style: ridge;
+  border-color: darkkhaki;
+  background-color: darkturquoise;
+}
+
+.polygon {
+  width: 100%;
+  height: 100%;
+  transition: 1s;
+  /* transition-delay: 1s; */
+}
+
+.mover {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: var(--mouse-x);
+  top: var(--mouse-y);
+  pointer-events: none;
+}
+
+/* .polygon:hover {
+  -webkit-clip-path: polygon( 60% 80%, 20% 70%, 70% 10% );
+  background-color: yellow;
+} */
