@@ -1,4 +1,5 @@
 const express = require("express");
+
 const router = express.Router();
 
 // router.use(express.static("public"));
@@ -29,7 +30,7 @@ router.get("/hello/hello", (req, res) => {
 router.post("/hello", (req, res) => {
   const queryParams = req.query;
   console.log(queryParams);
-  const name = req.query.name;
+  const { name } = req.query;
   res.send(`POST hello!, ${name}`);
 });
 

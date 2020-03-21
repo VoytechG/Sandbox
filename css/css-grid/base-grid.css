@@ -1,0 +1,18 @@
+.grid {
+  display: grid;
+  gap: 1rem;
+
+  grid-template-columns: 1fr 2fr 1fr;
+
+  /* for setting a fixed number of columns */
+  grid-template-columns: repeat(3, 1fr);
+
+  /* for setting a fixed number of columns */
+  grid-template-columns: repeat(3, 1fr 2fr);
+
+  /* for setting min columns width additionally */
+  grid-template-columns: repeat(12, minmax(240px, 1fr));
+
+  /* now add responsiveness */
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
