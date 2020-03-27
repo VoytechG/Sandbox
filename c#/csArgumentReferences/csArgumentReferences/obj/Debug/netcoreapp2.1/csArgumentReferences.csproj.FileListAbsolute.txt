@@ -1,0 +1,10 @@
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\bin\Debug\netcoreapp2.1\csArgumentReferences.deps.json
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\bin\Debug\netcoreapp2.1\csArgumentReferences.runtimeconfig.json
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\bin\Debug\netcoreapp2.1\csArgumentReferences.runtimeconfig.dev.json
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\bin\Debug\netcoreapp2.1\csArgumentReferences.dll
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\bin\Debug\netcoreapp2.1\csArgumentReferences.pdb
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\obj\Debug\netcoreapp2.1\csArgumentReferences.csproj.CoreCompileInputs.cache
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\obj\Debug\netcoreapp2.1\csArgumentReferences.AssemblyInfoInputs.cache
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\obj\Debug\netcoreapp2.1\csArgumentReferences.AssemblyInfo.cs
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\obj\Debug\netcoreapp2.1\csArgumentReferences.dll
+C:\Users\wojci\Desktop\Sandbox\c#\csArgumentReferences\csArgumentReferences\obj\Debug\netcoreapp2.1\csArgumentReferences.pdb
